@@ -9,13 +9,11 @@ html, body {
     background-position: 100%;
     background-size: 100%;
 }
-
 #container {
     /* display: flex;
     justify-content: center;
     align-items: center; */
 }
-
 p {
     font-size: large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,12 +22,10 @@ p {
     text-align: center;
     padding: 20px;
 }
-
 a {
     text-decoration: none;
     transition: transform .2s;
 }
-
 a:hover {
     transform: scale(1.5);
 }
